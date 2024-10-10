@@ -70,81 +70,13 @@ Sen nasılsın ?
 ```
 17 - "Zaman bir GeRi SayIm" cümlesini alıp , hepsi büyük harf ve hepsi küçük harfle yazdırınız.
 ```
+
 ```
 18 - "    Selamlar   " metnini bir değişkene atayıp , başındaki ve sonundaki boşlukları siliniz. Kalıcı olarak.
 ```
+
 ## Not
 Bütün sorular tek sayfada yapılmıştır. `#Region` ile sorular ayrılmıştır.
 
-## 🚀 1. Soru Kod
-```csharp
- Quest1_Hello(); //methodu çağırıyoruz.
 
-static void Quest1_Hello()
-{
-    //1 - Aşağıdaki çıktıyı yazan bir program.
-
-    //Merhaba
-    //Nasılsın ?
-    //İyiyim
-    //Sen nasılsın?
-
-    Console.WriteLine("Merhaba\r\nnasılsın? \r\nİyiyim\r\nsen nasılsın?");
-}
-```
-
-## 🚀 2. Soru Kod
-```csharp
-  static void Quest2_Variable(int num, string text)
-{
-    //2 - Bir adet metinsel, bir adet tam sayı verisi tutmak için 2 adet değişken tanımlayınız.
-    //Bunların değerlerini atayıp , ekrana yazdırınız.
-
-    Console.WriteLine("Gelen sayı: " + num);
-    Console.WriteLine("Gelen yazı: " + text);
-
-}
-
- static void Main(string[] args)
- {
-     //2. SORU
-     int result = Number();
-     Console.WriteLine(result);
-     Console.Read();
-}
-```
-
-## 🚀 3. Soru Kod
-```csharp
-//3.Parametre Alan ve Geriye Değer Döndüren Bir Metot
-public static int Carp(int num1, int num2)
-{
-    return num1*num2;
-}
-
- static void Main(string[] args)
- {
-  int num = 5;
-  string text = "soru2";
-
-  Quest2_Variable(num, text); //parametre olarak dışarıdan alınan 2 veriyi methodun parametresi olarak koyuyoruz
-  Console.Read();
-}
-```
-
-## 🚀 4. Soru Kod
-```csharp
-//4.Parametre Alan ve Geriye Değer Döndürmeyen bir Metot
-public static void Message(string name, string surname)
-{
-    Console.WriteLine("Hoşgeldiniz {0} {1}", name, surname);
-}
-
- static void Main(string[] args)
- {
-     //3.SORU
-//4.SORU
-Message("Mauro","Icardi");
-     Console.Read();
-}
 
