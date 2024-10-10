@@ -1,0 +1,14 @@
+C:\Users\yasar\source\repos\patika_w2_kapanis_uygulamalari\patika_w2_kapanis_uygulamalari\bin\Debug\net8.0\patika_w2_kapanis_uygulamalari.exe
+C:\Users\yasar\source\repos\patika_w2_kapanis_uygulamalari\patika_w2_kapanis_uygulamalari\bin\Debug\net8.0\patika_w2_kapanis_uygulamalari.deps.json
+C:\Users\yasar\source\repos\patika_w2_kapanis_uygulamalari\patika_w2_kapanis_uygulamalari\bin\Debug\net8.0\patika_w2_kapanis_uygulamalari.runtimeconfig.json
+C:\Users\yasar\source\repos\patika_w2_kapanis_uygulamalari\patika_w2_kapanis_uygulamalari\bin\Debug\net8.0\patika_w2_kapanis_uygulamalari.dll
+C:\Users\yasar\source\repos\patika_w2_kapanis_uygulamalari\patika_w2_kapanis_uygulamalari\bin\Debug\net8.0\patika_w2_kapanis_uygulamalari.pdb
+C:\Users\yasar\source\repos\patika_w2_kapanis_uygulamalari\patika_w2_kapanis_uygulamalari\obj\Debug\net8.0\patika_w2_kapanis_uygulamalari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasar\source\repos\patika_w2_kapanis_uygulamalari\patika_w2_kapanis_uygulamalari\obj\Debug\net8.0\patika_w2_kapanis_uygulamalari.AssemblyInfoInputs.cache
+C:\Users\yasar\source\repos\patika_w2_kapanis_uygulamalari\patika_w2_kapanis_uygulamalari\obj\Debug\net8.0\patika_w2_kapanis_uygulamalari.AssemblyInfo.cs
+C:\Users\yasar\source\repos\patika_w2_kapanis_uygulamalari\patika_w2_kapanis_uygulamalari\obj\Debug\net8.0\patika_w2_kapanis_uygulamalari.csproj.CoreCompileInputs.cache
+C:\Users\yasar\source\repos\patika_w2_kapanis_uygulamalari\patika_w2_kapanis_uygulamalari\obj\Debug\net8.0\patika_w2_kapanis_uygulamalari.dll
+C:\Users\yasar\source\repos\patika_w2_kapanis_uygulamalari\patika_w2_kapanis_uygulamalari\obj\Debug\net8.0\refint\patika_w2_kapanis_uygulamalari.dll
+C:\Users\yasar\source\repos\patika_w2_kapanis_uygulamalari\patika_w2_kapanis_uygulamalari\obj\Debug\net8.0\patika_w2_kapanis_uygulamalari.pdb
+C:\Users\yasar\source\repos\patika_w2_kapanis_uygulamalari\patika_w2_kapanis_uygulamalari\obj\Debug\net8.0\patika_w2_kapanis_uygulamalari.genruntimeconfig.cache
+C:\Users\yasar\source\repos\patika_w2_kapanis_uygulamalari\patika_w2_kapanis_uygulamalari\obj\Debug\net8.0\ref\patika_w2_kapanis_uygulamalari.dll
