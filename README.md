@@ -95,14 +95,14 @@ static void Quest1_Hello()
 
 ## 🚀 2. Soru Kod
 ```csharp
-  //2.Geriye Tamsayı Döndüren Bir metot
-public static int Number()
+  static void Quest2_Variable(int num, string text)
 {
-    Random rand = new Random();
-    int num = rand.Next(1,100);
-    Console.WriteLine("Üretilen sayı: "+num);
+    //2 - Bir adet metinsel, bir adet tam sayı verisi tutmak için 2 adet değişken tanımlayınız.
+    //Bunların değerlerini atayıp , ekrana yazdırınız.
 
-    return num % 2;
+    Console.WriteLine("Gelen sayı: " + num);
+    Console.WriteLine("Gelen yazı: " + text);
+
 }
 
  static void Main(string[] args)
@@ -124,10 +124,11 @@ public static int Carp(int num1, int num2)
 
  static void Main(string[] args)
  {
-     //3.SORU
-int result_carp = Carp(5, 2);
-Console.WriteLine("iki sayının çarpımı: "+result_carp);
-     Console.Read();
+  int num = 5;
+  string text = "soru2";
+
+  Quest2_Variable(num, text); //parametre olarak dışarıdan alınan 2 veriyi methodun parametresi olarak koyuyoruz
+  Console.Read();
 }
 ```
 
