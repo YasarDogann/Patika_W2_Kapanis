@@ -78,18 +78,18 @@ Bütün sorular tek sayfada yapılmıştır. `#Region` ile sorular ayrılmışt�
 
 ## 🚀 1. Soru Kod
 ```csharp
-  //1.Geriye Değer Döndürmeyen Bir void metot.
-public static void Song()
+ Quest1_Hello(); //methodu çağırıyoruz.
+
+static void Quest1_Hello()
 {
-    Console.WriteLine("Mutlu Son Olmasın Mutlu Sonsuz Olsun");
-}
+    //1 - Aşağıdaki çıktıyı yazan bir program.
 
- static void Main(string[] args)
- {
-     //1.SORU
-     Song();
+    //Merhaba
+    //Nasılsın ?
+    //İyiyim
+    //Sen nasılsın?
 
-     Console.Read();
+    Console.WriteLine("Merhaba\r\nnasılsın? \r\nİyiyim\r\nsen nasılsın?");
 }
 ```
 
